@@ -1,6 +1,6 @@
 # CAR SPEED COMPANY - Responsive Car Website
 
-![alt text](<img/background.png>)
+![alt text](<img/background2.png>)
 
 
 
